@@ -1,0 +1,13 @@
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.csproj.AssemblyReference.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.AssemblyInfoInputs.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.AssemblyInfo.cs
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.csproj.CoreCompileInputs.cache
+D:\Trabo_torrico\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.MvcApplicationPartsAssemblyInfo.cache
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.csproj.AssemblyReference.cache
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.GeneratedMSBuildEditorConfig.editorconfig
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.AssemblyInfoInputs.cache
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.AssemblyInfo.cs
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.csproj.CoreCompileInputs.cache
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.MvcApplicationPartsAssemblyInfo.cs
+F:\DESCARGAS\CHATGPT-API\CHATGPT-API\CHATGPT-API\CHATGPT-API\obj\Debug\net7.0\CHATGPT-API.MvcApplicationPartsAssemblyInfo.cache
